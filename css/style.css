@@ -1,0 +1,159 @@
+body{
+	background-image: url("../images/bg.png");
+	background-position: 0 0;
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+.logo{
+	margin-left: 152px;
+	display: inline-block;
+	margin-top: 24px;
+}
+
+
+.Articles{
+	display: flex;
+	margin-left: 445px;
+	margin-top: -30px;
+	font-family: 'Open Sans', sans-serif;
+	color: black;
+	font-size: 14px;
+	transform: 1s;
+
+}
+
+.Articles:hover{
+	color: #375B26;
+	font-size: 19px;
+}
+
+.Classes{
+	display: flex;
+	margin-left: 542px;
+	margin-top: -14px;
+	font-family: 'Open Sans', sans-serif;
+	color: black;
+	font-size: 14px;
+	transform: 1s;
+}
+
+.Classes:hover{
+	color: #375B26;
+	font-size: 19px;
+}
+
+.Courses{
+	display: flex;
+	margin-left: 640px;
+	margin-top: -14px;
+	font-family: 'Open Sans', sans-serif;
+	color: black;
+	font-size: 14px;
+	transform: 1s;
+}
+
+.Courses:hover{
+	color: #375B26;
+	font-size: 19px;
+}
+
+.Teachers{
+	display: flex;
+	margin-left: 737px;
+	margin-top: -14px;
+	font-family: 'Open Sans', sans-serif;
+	color: black;
+	font-size: 14px;
+	transform: 1s;
+}
+
+.Teachers:hover{
+	color: #375B26;
+	font-size: 19px;
+}
+
+.About{
+	display: flex;
+	margin-left: 835px;
+	margin-top: -14px;
+	font-family: 'Open Sans', sans-serif;
+	color: black;
+	font-size: 14px;
+	transform: 1s;
+}
+
+.About:hover{
+	color: #375B26;
+	font-size: 19px;
+}
+
+.find{
+	display: flex;
+	margin-top: -21px;
+	margin-left: 974px;
+}
+
+.sing{
+	display: flex;
+	margin-top: -30px;
+	margin-left: 1030px;
+}
+
+.trial{
+	display: flex;
+	margin-top: -32px;
+	margin-left: 1127px;
+}
+
+.practice{
+	position: absolute;
+	width: 538px;
+	height: 129px;
+	left: 152px;
+	top: 159px;
+	font-family: 'Crimson Text';
+	font-style: normal;
+	font-weight: 400;
+	font-size: 64px;
+	line-height: 88px;
+	color: #112734;
+}
+
+.text2{
+	position: absolute;
+	width: 538px;
+	height: 129px;
+	left: 152px;
+	top: 235px;
+	font-family: 'Crimson Text';
+	font-style: normal;
+	font-weight: 400;
+	font-size: 36px;
+	line-height: 50px;
+	color: rgba(17, 39, 52, 0.7);
+}
+
+.stream{
+	position: absolute;
+	width: 385.13px;
+	height: 68.33px;
+	left: 152px;
+	top: 318px;
+}
+
+.trial2{
+	position: absolute;
+	width: 360px;
+	height: 68px;
+	left: 152px;
+	top: 429px;
+}
+
+.more{
+position: absolute;
+width: 375px;
+height: 164px;
+left: 916px;
+top: 182px;
+}
